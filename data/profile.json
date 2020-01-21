@@ -11,27 +11,27 @@
       "type": "percent",
       "subskills": [
         {
-          "name": "Architecture",
-          "percent": 89
+          "name": "Arquitecturas",
+          "percent": 80
         },
         {
           "name": "Mobile/Web App Development",
-          "percent": 95
+          "percent": 89
         },
         {
-          "name": "Product Management",
+          "name": "Desarrollo API",
           "percent": 85
         },
         {
-          "name": "Project Management",
-          "percent": 92
+          "name": "Gestión de Proyectos",
+          "percent": 88
         },
         {
           "name": "Game Development",
           "percent": 70
         },
         {
-          "name": "Blockchain",
+          "name": "Desarrollo Frontend",
           "percent": 85
         },
         {
@@ -39,20 +39,20 @@
           "percent": 81
         },
         {
-          "name": "Backend Development",
+          "name": "Desarrollo Backend ",
           "percent": 93
         },
         {
           "name": "Data Science",
-          "percent": 65
+          "percent": 89
         },
         {
           "name": "Artificial Intelligence",
-          "percent": 70
+          "percent": 75
         },
         {
-          "name": "UX",
-          "percent": 80
+          "name": "UX/UI",
+          "percent": 65
         }
       ]
     },
@@ -62,7 +62,7 @@
       "subskills": [
         {
           "name": "Javascript",
-          "percent": 898
+          "percent": 89
         },
         {
           "name": "Java",
@@ -187,19 +187,32 @@
       "type": "tag",
       "subskills": [
         {
-          "name": "Postgresql"
+          "name": "Postgresql",
+          "percent": 64
         },
         {
-          "name": "Mongodb"
+          "name": "Mongodb",
+          "percent": 73
         },
         {
-          "name": "Parse"
+          "name": "Oracle DB",
+          "percent": 79
         },
         {
-          "name": "Firebase"
+          "name": "Firebase",
+          "percent": 68
         },
         {
-          "name": "Elastic Search"
+          "name": "Elastic Search",
+          "percent": 69
+        },
+        {
+          "name": "MS SQL",
+          "percent": 75
+        },
+        {
+          "name": "MySQL",
+          "percent": 81
         }
       ]
     }
@@ -207,16 +220,16 @@
   "summary": "Entusiasmo por desarrollar mi carrera profesional en Ingeniería de sistemas de Información, ciencias de la computación y analítica de datos. Capacidad de Comunicación, presentación y modelado de servicios, soluciones, soporte, análisis de datos, así como uso de herramientas de minería de datos y machine learning para diferentes modelos de software, automatización inteligencia artificial y depuración de procesos.",
   "education": [
     {
-      "institution": "Middle East Technical University, Turkey",
-      "degree": "Geological Engineering",
-      "start": "2013",
-      "end": "2006"
+      "institution": "Universidad Mariano Galvez de Guatemala",
+      "degree": "Ingeniería en Sistemas ",
+      "start": "2015",
+      "end": "2020"
     },
     {
-      "institution": "Gazi University, Turkey",
-      "degree": "Industrial Engineering",
-      "start": "2002",
-      "end": "2006"
+      "institution": "Intecap Centro Tic's",
+      "degree": "Administrador de Servidores Linux",
+      "start": "2017",
+      "end": "2017"
     }
   ],
   "experience": [
@@ -261,13 +274,6 @@
       "description": "Supervisor de Redes eléctricas/datos, diseño, cálculo y supervisión de instalaciones eléctricas, hardware para casetas telefónicas y cableado estructurado, sistema de electricidad, sistemas de tierra y protección de equipos electrónicos de datos, instalaciones industriales y comerciales. Wireless Centros comerciales, Sector industrial, sector salud, sector energía. Supervisor de proyectos de casetas telefónicas para: Comcel(Tigo), Bell south (telefónica).",
       "start": "01/1999",
       "end": "04/2002"
-    },
-    {
-      "role": "Full Stack Developer",
-      "company": "Freelance",
-      "description": "In the first years of my career, I had the privilege to work with many startups and building my own games and applications.",
-      "start": "04/2008",
-      "end": "01/2016"
     }
   ],
   "social": [
@@ -295,7 +301,28 @@
       "company": "Open source",
       "description": "Gatsby resume tailwind is a free starter template with  Netlify CMS implementation. It is easy to customize the design with thanks to tailwind theming capabilities. It uses git as a backend and can be deployed to any static hosting service like Netlify, firebase hosting or Github pages.",
       "link": "https://github.com/barancezayirli/gatsby-resume-tailwind"
+    },
+    {
+      "name": "MiTraductor",
+      "company": "Android/iOS app",
+      "description": "Aplicacion Híbrida desarrollada para Android/iOS/web ",
+      "link": "https://www.amazon.com/Sky-Apps-Technologies-My-Translator/dp/B00TJ9HGI2/ref=sr_1_1?keywords=my+translator&qid=1554423581&s=gateway&sr=8-1"
+    },
+    {
+      "name": "Scanner QR & Generador código QR ",
+      "company": "Android/iOS app",
+      "description": "Aplicación móvil Híbrida para  android/iOS/web genera códigos QR y cuenta con u scanner para leer codigo QR entre otras funciones útiles, publicada en Amazon appstroe (no actualizada /mantenimiento por falta de tiempo)",
+      "link": "https://www.amazon.com/Sky-Apps-Technologies-scanner-Generator/dp/B00XIQFFE4/ref=sr_1_2?qid=1554423841&refinements=p_4:Sky+Apps+&+Technologies&s=mobile-apps&sr=1-2"
     }
   ],
-  "fullname": "Romeo Catalán Arreaga"
+  "fullname": "Romeo Catalán Arreaga",
+  "sidebar": [
+    {
+      "title": "Side bar",
+      "items": [
+        "item1 de side bar",
+        "item 2 de sidebar"
+      ]
+    }
+  ]
 }
