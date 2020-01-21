@@ -1,9 +1,9 @@
 {
   "contact": {
-    "phone": "+380 63 251 76 44",
-    "email": "contact@barancezayirli.com",
-    "website": "https://barancezayirli.com",
-    "location": "Kiev, Ukraine"
+    "phone": "+502 35559602",
+    "email": "ocatalana@miumg.edu.gt",
+    "website": "https://romeoit.ml",
+    "location": "Ciudad Guatemala, Guatemala."
   },
   "skills": [
     {
@@ -62,11 +62,11 @@
       "subskills": [
         {
           "name": "Javascript",
-          "percent": 96
+          "percent": 898
         },
         {
           "name": "Java",
-          "percent": 82
+          "percent": 70
         },
         {
           "name": "Python",
@@ -74,19 +74,19 @@
         },
         {
           "name": "C#",
-          "percent": 74
+          "percent": 70
         },
         {
-          "name": "Solidity",
+          "name": "C++",
           "percent": 85
         },
         {
           "name": "Dart",
-          "percent": 75
+          "percent": 45
         },
         {
           "name": "Go",
-          "percent": 60
+          "percent": 50
         }
       ]
     },
@@ -95,58 +95,63 @@
       "type": "tag",
       "subskills": [
         {
-          "name": "React"
+          "name": "React",
+          "percent": 80
         },
         {
-          "name": "Flutter"
+          "name": "Flutter",
+          "percent": 45
         },
         {
-          "name": "React Native"
+          "name": "React Native",
+          "percent": 50
         },
         {
-          "name": "Vue"
+          "name": "Vue",
+          "percent": 50
         },
         {
-          "name": "Spring"
+          "name": "Spring",
+          "percent": 45
         },
         {
-          "name": "Angular"
+          "name": "Angular",
+          "percent": 60
         },
         {
-          "name": "Electron"
+          "name": "Electron",
+          "percent": 55
         },
         {
-          "name": "Node"
+          "name": "Node",
+          "percent": 80
         },
         {
-          "name": "Flusk"
+          "name": "Flask",
+          "percent": 70
         },
         {
-          "name": "Express"
+          "name": "Express",
+          "percent": 78
         },
         {
-          "name": "Koa"
+          "name": "Gatsby",
+          "percent": 81
         },
         {
-          "name": "Gatsby"
+          "name": "Django",
+          "percent": 50
         },
         {
-          "name": "Apollo"
+          "name": "Next",
+          "percent": 66
         },
         {
-          "name": "Django"
+          "name": "Apache Cordoba",
+          "percent": 78
         },
         {
-          "name": "Loopback"
-        },
-        {
-          "name": "Next"
-        },
-        {
-          "name": "Amplify"
-        },
-        {
-          "name": "Pixi"
+          "name": "Ionic"
         },
         {
           "name": "Phaser"
@@ -199,7 +204,7 @@
       ]
     }
   ],
-  "summary": "Highly focused technologist with a multidisciplinary skill set honed over 10+ years in the IT industry. I strive to build great products and can take an initial idea, tackle it from multiple angles and take it from something great to something incredible. With 10+ years of experience in various industries, I help tech startups from idea phase to high volumes. I design and build scalable solutions, implement internal processes that fit your organization, build teams that produce results.",
+  "summary": "Entusiasmo por desarrollar mi carrera profesional en Ingeniería de sistemas de Información, ciencias de la computación y analítica de datos. Capacidad de Comunicación, presentación y modelado de servicios, soluciones, soporte, análisis de datos, así como uso de herramientas de minería de datos y machine learning para diferentes modelos de software, automatización inteligencia artificial y depuración de procesos.",
   "education": [
     {
       "institution": "Middle East Technical University, Turkey",
@@ -216,25 +221,25 @@
   ],
   "experience": [
     {
-      "role": "Consultant",
-      "company": "Baran Cezayirli Consulting",
-      "description": "I consult startups to take their concept to the next level.",
-      "start": "08/2018",
-      "end": ""
+      "role": "Fullstack Developer - 2019 ( freelance ) ",
+      "company": "Romeo Catalán ",
+      "description": "Desarrollo de soluciones Web, Api’s, Apps (wrapper android y iOS), Data analytics. ",
+      "start": "08/2017",
+      "end": "08/2020"
     },
     {
-      "role": "Full Stack Tech Lead",
-      "company": "Malaeb Limited",
-      "description": "Malaeb is a group sports community and booking platform. I was managing all technical aspects of the product. I designed a new solution to improve the current platform, build and manage a new development team to migrate the new app. Implement better internal processes to increase productivity.",
-      "start": "11/2018",
-      "end": "09/2019"
+      "role": "< Consultor IT",
+      "company": "Sistemas de Ingeniería Informática y Electricidad",
+      "description": "Suministro y configuración Servidor de Back uP, DBA y Active Directory, DNS, DHCP, Back up, Usuarios, Windows server 2008 STD, Firewall, McAfee Total Protection For endpoint Console ( licencias y gestión de consola, sincronización con AD), Seguridad y Perfiles de usuarios, Gestor de correo Outlook, servicios y recursos en red.  \nDiseño y supervisiónde cableado estructurado red, cat 5 a cat 6., switch 10/100/1000  Gigabit y equipo pasivo de red, pruebas y conexión de puntos de red. Gestión y soporte IT, mantenimientos a equipos Activos y pasivos de red, Servidores, soporte de red y administración de directorio activo, Dominio Local, Web hosting, Web mail server, activación y configuración de cuentas de correo, asesoría en automatización de procesos, diseño e implementación de soluciones de software, soluciones de Red, Plataformas cliente-servidor, aplicaciones Web, presentación de servicios y soluciones a clientes tanto en hardware (pc), software networking. ",
+      "start": "11/2005",
+      "end": "01/2017"
     },
     {
-      "role": "Full Stack Tech Lead",
-      "company": "Solve Care",
-      "description": "Solve care is a healthcare blockchain platform. I was responsible for the client side development team and architecture of the platform. I was also active in product management team.",
-      "start": "04/2018",
-      "end": "11/2018"
+      "role": "Tutor Software InDesign",
+      "company": "IMB-PC",
+      "description": "Tutor de Curso, Software Adobe InDesign AdobeCS3 2008 Curso impartido para alumnos de la Facultad de Periodismo y Ciencias de la comunicación (publicidad) Universidad de San Carlos de Guatemala. ",
+      "start": "01/2009",
+      "end": "07/2009"
     },
     {
       "role": "Full Stack Lead Developer",
@@ -251,11 +256,11 @@
       "end": "10/2017"
     },
     {
-      "role": "Front End Developer - UI/UX Designer",
-      "company": "GovRight",
-      "description": "GovRight provides citizens the opportunity to understand and contribute to government and legislation. I was responsible for the UX and development of admin interface for the platform.",
-      "start": "11/2015",
-      "end": "04/2016"
+      "role": "Supervisor de Proyectos",
+      "company": "Sistec, S.A.",
+      "description": "Supervisor de Redes eléctricas/datos, diseño, cálculo y supervisión de instalaciones eléctricas, hardware para casetas telefónicas y cableado estructurado, sistema de electricidad, sistemas de tierra y protección de equipos electrónicos de datos, instalaciones industriales y comerciales. Wireless Centros comerciales, Sector industrial, sector salud, sector energía. Supervisor de proyectos de casetas telefónicas para: Comcel(Tigo), Bell south (telefónica).",
+      "start": "01/1999",
+      "end": "04/2002"
     },
     {
       "role": "Full Stack Developer",
@@ -267,35 +272,23 @@
   ],
   "social": [
     {
-      "service": "youtube",
-      "url": "https://www.youtube.com/channel/UCczRc31u_YXNiSpYKxQU_Ug"
-    },
-    {
       "service": "linkedin",
       "url": "https://www.linkedin.com/in/barancezayirli"
     },
     {
       "service": "twitter",
-      "url": "https://twitter.com/barancezayirli"
-    },
-    {
-      "service": "angellist",
-      "url": "https://angel.co/baran-cezayirli"
+      "url": "https://twitter.com/skyappsgt"
     },
     {
       "service": "github",
-      "url": "https://github.com/barancezayirli"
+      "url": "https://github.com/skyappgt"
     },
     {
       "service": "facebook",
-      "url": "https://www.facebook.com/barancezayirli"
-    },
-    {
-      "service": "instagram",
-      "url": "https://www.instagram.com/barancezayirli"
+      "url": "https://www.facebook.com/itskyapps"
     }
   ],
-  "role": "Technologist",
+  "role": "Full Stack Developer",
   "projects": [
     {
       "name": "Gatsby resume starter",
@@ -304,5 +297,5 @@
       "link": "https://github.com/barancezayirli/gatsby-resume-tailwind"
     }
   ],
-  "fullname": "Baran Cezayirli"
+  "fullname": "Romeo Catalán Arreaga"
 }
