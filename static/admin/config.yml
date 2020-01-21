@@ -16,7 +16,7 @@ collections:
           - { label: "Full Name", name: fullname, widget: string }
           - { label: Role, name: role, widget: string }
           - { label: Summary, name: summary, widget: text }
-          - label: Contact
+          - label: Contacto
             name: contact
             widget: object
             fields:
@@ -31,7 +31,7 @@ collections:
             fields:
               - { label: Service, name: service, widget: select, options: [linkedin, twitter, facebook, youtube, instagram, behance, github, dribbble, angellist]}
               - { label: URL, name: url, widget: string }
-          - label: Experience
+          - label: Experiencia
             name: experience
             widget: list
             required: false
@@ -41,7 +41,7 @@ collections:
               - { label: Description, name: description, widget: text }
               - { label: "Start date", name: start, widget: date, format: 'MM/YYYY' }
               - { label: "End date", name: end, widget: date, required: false, format: 'MM/YYYY' }
-          - label: Projects
+          - label: Proyectos
             name: projects
             widget: list
             required: false
@@ -63,7 +63,7 @@ collections:
                 fields:
                   - { label: Name, name: name, widget: string }
                   - { label: Percent, name: percent, widget: number, required: false }
-          - label: Education
+          - label: Educación
             name: education
             widget: list
             required: false
