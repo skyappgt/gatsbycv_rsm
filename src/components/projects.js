@@ -15,7 +15,7 @@ const Projects = ({ data }) => (
             target="_blank"
             rel="noopener noreferrer"
           >
-            Visit Project
+            Ver Proyecto
           </a>
         </div>
       </article>
