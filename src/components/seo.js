@@ -27,7 +27,7 @@ const SEO = ({ description, lang, meta, title }) => {
   );
   const metaDescription = description || site.siteMetadata.description;
   return (
-    <Helmet
+    <Helmet>
       htmlAttributes={{
         lang,
       }}
@@ -67,7 +67,20 @@ const SEO = ({ description, lang, meta, title }) => {
           content: metaDescription,
         },
       ].concat(meta)}
-    />
+      <script type="text/javascript"> 
+        window.$crisp=[];
+        window.CRISP_WEBSITE_ID="f0e58040-9330-4baa-b89d-d9afe616707c";
+        (function(){ 
+          d=document;
+          s=d.createElement("script"); 
+          s.src="https://client.crisp.chat/l.js"; 
+          s.async=1;
+          d.getElementsByTagName("head")[0].appendChild(s);
+          })(); 
+      </script>
+        
+      </Helmet>
+    
   );
 }
 
