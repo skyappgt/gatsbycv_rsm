@@ -1,7 +1,7 @@
 .bg-primary-500 {
     background: linear-gradient(rgba(255, 255, 255, 0.15), transparent 75%) left/30px 30px repeat-x, linear-gradient(to right, lightseagreen 0%, #008000b8 100%) left/var(--p,100%) fixed, lightgray;
  }
- .text-primary-500 .tag {
+ .text-primary-500, .tag {
      color:#006190;
  }
  .text-center {
