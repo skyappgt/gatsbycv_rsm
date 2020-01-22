@@ -392,8 +392,26 @@
       "url": "https://www.facebook.com/itskyapps"
     }
   ],
-  "role": "Full Stack Developer / IT Sysadmin",
+  "role": "Full Stack Developer/IT Sysadmin",
   "projects": [
+    {
+      "name": "Brenda Lara Markus ( Actriz-comunicadora)",
+      "company": "Sitio Web",
+      "description": "Sitio web- actualmente en gestión y actualización",
+      "link": "https://brendalaramarkus.ml/"
+    },
+    {
+      "name": "Licda Norma Esquivel Mendoza",
+      "company": "Bufete Jurídico",
+      "description": "Sitio web/blog  - actualmente en gestión y actualización",
+      "link": "https://normaesquivelmendoza.ml/"
+    },
+    {
+      "name": "Fisioterapia",
+      "company": "Fisioterapia S y M - Costa Rica",
+      "description": "Sitio web/blog  - actualmente en gestión y actualización",
+      "link": "https://fisioterapiasym.ml"
+    },
     {
       "name": "Machine Learning para Turismo Interno",
       "company": "Inguat",
@@ -411,24 +429,6 @@
       "company": "Android/iOS app",
       "description": "Aplicación móvil Híbrida para  android/iOS/web genera códigos QR y cuenta con u scanner para leer codigo QR entre otras funciones útiles, publicada en Amazon appstroe (no actualizada /mantenimiento por falta de tiempo)",
       "link": "https://www.amazon.com/Sky-Apps-Technologies-scanner-Generator/dp/B00XIQFFE4/ref=sr_1_2?qid=1554423841&refinements=p_4:Sky+Apps+&+Technologies&s=mobile-apps&sr=1-2"
-    },
-    {
-      "name": "Brenda Lara Markus ( Actriz-comunicadora)",
-      "company": "Sitio Web",
-      "description": "Sitio web- actualmente en gestión y actualización",
-      "link": "https://brendalaramarkus.ml/"
-    },
-    {
-      "name": "Fisioterapia",
-      "company": "Fisioterapia S y M - Costa Rica",
-      "description": "Sitio web/blog  - actualmente en gestión y actualización",
-      "link": "https://fisioterapiasym.ml"
-    },
-    {
-      "name": "Licda Norma Esquivel Mendoza",
-      "company": "Bufete Jurídico",
-      "description": "Sitio web/blog  - actualmente en gestión y actualización",
-      "link": "https://normaesquivelmendoza.ml/"
     }
   ],
   "fullname": "Romeo Catalán Arreaga",
