@@ -324,7 +324,7 @@
       "end": "08/2020"
     },
     {
-      "role": "< Consultor IT",
+      "role": "Consultor IT",
       "company": "Sistemas de Ingeniería Informática y Electricidad",
       "description": "Suministro y configuración Servidor de Back uP, DBA y Active Directory, DNS, DHCP, Back up, Usuarios, Windows server 2008 STD, Firewall, McAfee Total Protection For endpoint Console ( licencias y gestión de consola, sincronización con AD), Seguridad y Perfiles de usuarios, Gestor de correo Outlook, servicios y recursos en red.  \nDiseño y supervisiónde cableado estructurado red, cat 5 a cat 6., switch 10/100/1000  Gigabit y equipo pasivo de red, pruebas y conexión de puntos de red. Gestión y soporte IT, mantenimientos a equipos Activos y pasivos de red, Servidores, soporte de red y administración de directorio activo, Dominio Local, Web hosting, Web mail server, activación y configuración de cuentas de correo, asesoría en automatización de procesos, diseño e implementación de soluciones de software, soluciones de Red, Plataformas cliente-servidor, aplicaciones Web, presentación de servicios y soluciones a clientes tanto en hardware (pc), software networking. ",
       "start": "11/2005",
@@ -338,11 +338,11 @@
       "end": "07/2009"
     },
     {
-      "role": "Full Stack Lead Developer",
-      "company": "Applied Blockchain",
-      "description": "Applied Blockchain built blockchain applications for enterprises and startups. I built 4 full stack blockchain projects during my contract.",
-      "start": "10/2017",
-      "end": "04/2018"
+      "role": "IT Sysadmin (Contratista)",
+      "company": "Comisión Presidencial Contra la Discriminación y Racismo (Codisra)",
+      "description": "Diseño y ejecución de la Implementación y administración de red Ethernet, Cableado estructurado, equipos activos y pasivos de red Cat 5e, administración de servidor W2003Server, Instalación, configuración y administración de consola ePolicy Orchestrator Mcafee, conexión a \nrepositorios (DB) y despliegue de agentes por medio del Dominio local AD, soporte técnico y mantenimiento hardware, software. ",
+      "start": "10/2005",
+      "end": "04/2006"
     },
     {
       "role": "Full Stack Lead Developer",
