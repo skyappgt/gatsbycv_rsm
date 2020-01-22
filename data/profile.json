@@ -254,6 +254,10 @@
         {
           "name": "Matplotlib",
           "percent": 81
+        },
+        {
+          "name": "Jupyter Notebook",
+          "percent": 77
         }
       ]
     },
