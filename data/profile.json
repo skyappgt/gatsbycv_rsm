@@ -239,6 +239,18 @@
       "degree": "Técnico en Reparación de Hardware pc",
       "start": "2001",
       "end": "2001"
+    },
+    {
+      "institution": "InfoRed Guatemala",
+      "degree": "Técnico en Instalación de Software",
+      "start": "2001",
+      "end": "2001"
+    },
+    {
+      "institution": "InfoRed",
+      "degree": "Técnico de Instalación y configuración de Redes Lan/wan",
+      "start": "2020",
+      "end": "2020"
     }
   ],
   "experience": [
@@ -303,7 +315,7 @@
       "url": "https://www.facebook.com/itskyapps"
     }
   ],
-  "role": "Full Stack Developer",
+  "role": "Full Stack Developer / IT Sys Admin",
   "projects": [
     {
       "name": "Machine Learning para Turismo Interno",
