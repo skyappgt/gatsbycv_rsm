@@ -1,6 +1,6 @@
 import React from 'react';
 import Contact from './contact';
-import Crisp from './crisp';
+import Crisp from '../assets/crisp';
 
 const Header = ({ name, role, contacts }) => (
   <header className="border-b border-neutral-300 pb-2 md:flex items-center justify-between">
@@ -18,7 +18,7 @@ const Header = ({ name, role, contacts }) => (
           <Contact key={key} field={key} value={contacts[key]} />
         ))}
     </div>
-    
+    <script type="text/javascript" src={Crisp}/>
   </header>
 );
 

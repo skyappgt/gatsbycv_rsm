@@ -1,8 +1,4 @@
-import React from 'react';
-
-
-const crisp = () =>{
-    
+  
     window.$crisp=[];
     window.CRISP_WEBSITE_ID="f0e58040-9330-4baa-b89d-d9afe616707c";
     (function(){ 
@@ -12,6 +8,3 @@ const crisp = () =>{
         s.async=1;d.getElementsByTagName("head")[0].appendChild(s);
     })();
         
-}
-
-export default crisp;
