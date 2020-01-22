@@ -18,7 +18,7 @@ const Home = () => (
   <main className="antialiased text-neutral-900 bg-neutral-100 min-h-screen sm:p-5">
     <SEO title="Resume" />
     <link rel="stylesheet" type="text/css" src={hrefstyle} />
-    <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="f0e58040-9330-4baa-b89d-d9afe616707c";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+    
     <div className="container mx-auto shadow bg-white py-5 px-10">
       <Header
         contacts={resume.contact}
