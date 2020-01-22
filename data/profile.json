@@ -392,7 +392,7 @@
       "url": "https://www.facebook.com/itskyapps"
     }
   ],
-  "role": "Full Stack Developer / IT Sys Admin",
+  "role": "Full Stack Developer / IT Sysadmin",
   "projects": [
     {
       "name": "Machine Learning para Turismo Interno",
@@ -411,6 +411,12 @@
       "company": "Android/iOS app",
       "description": "Aplicación móvil Híbrida para  android/iOS/web genera códigos QR y cuenta con u scanner para leer codigo QR entre otras funciones útiles, publicada en Amazon appstroe (no actualizada /mantenimiento por falta de tiempo)",
       "link": "https://www.amazon.com/Sky-Apps-Technologies-scanner-Generator/dp/B00XIQFFE4/ref=sr_1_2?qid=1554423841&refinements=p_4:Sky+Apps+&+Technologies&s=mobile-apps&sr=1-2"
+    },
+    {
+      "name": "Brenda Lara Markus ( Actriz-comunicadora)",
+      "company": "Sitio Web",
+      "description": "Sitio web- actualmente en mantenimiento y actualización",
+      "link": "https://brendalaramarkus.ml/"
     }
   ],
   "fullname": "Romeo Catalán Arreaga",
