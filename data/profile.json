@@ -2,7 +2,7 @@
   "contact": {
     "phone": "+502 35559602",
     "email": "ocatalana@miumg.edu.gt",
-    "website": "https://romeoarrea.ga",
+    "website": "https://romeocarrea.ga",
     "location": "Ciudad Guatemala, Guatemala."
   },
   "skills": [
@@ -172,16 +172,20 @@
           "name": "Docker"
         },
         {
-          "name": "Jira"
+          "name": "InDesign"
         },
         {
-          "name": "Unity"
+          "name": "Photoshop"
         },
         {
-          "name": "Godot"
+          "name": "Gimp"
         },
         {
           "name": "Google Analytics"
+        },
+        {
+          "name": "Android Studio",
+          "percent": 66
         }
       ]
     },
@@ -216,6 +220,64 @@
         {
           "name": "MySQL",
           "percent": 81
+        }
+      ]
+    },
+    {
+      "title": "Data Science",
+      "type": "list",
+      "subskills": [
+        {
+          "name": "Anaconda SDK",
+          "percent": 88
+        },
+        {
+          "name": "Pytorch",
+          "percent": 66
+        },
+        {
+          "name": "Scikit-learn",
+          "percent": 78
+        },
+        {
+          "name": "Pandas",
+          "percent": 69
+        },
+        {
+          "name": "Matplotlib",
+          "percent": 81
+        }
+      ]
+    },
+    {
+      "title": "QA/Testing",
+      "type": "list",
+      "subskills": [
+        {
+          "name": "Selenium",
+          "percent": 79
+        },
+        {
+          "name": "Mocha / Chaí  JS",
+          "percent": 68
+        },
+        {
+          "name": "Cucumber",
+          "percent": 74
+        }
+      ]
+    },
+    {
+      "title": "Linux",
+      "type": "list",
+      "subskills": [
+        {
+          "name": "CentOS, Debian, openSuse, Fedora, Ubuntu, Mint. ",
+          "percent": 90
+        },
+        {
+          "name": "Linux Services: http, ftp, dns, samba, samba4, Asterisk, Oracle Linux, OracleDB, CMS, Squid, ipPBX, SSH",
+          "percent": 90
         }
       ]
     }
@@ -298,10 +360,6 @@
     }
   ],
   "social": [
-    {
-      "service": "linkedin",
-      "url": "https://www.linkedin.com/in/barancezayirli"
-    },
     {
       "service": "twitter",
       "url": "https://twitter.com/skyappsgt"
