@@ -10,13 +10,9 @@ import E from '../assets/IMG_20200220_133229.jpg';
 import F from '../assets/IMG_20200220_132804.jpg';
 import G from '../assets/IMG_20200219_194250.jpg';
 
-
-
-
-
 const Docs = () => (
   <main className="antialiased text-neutral-900 bg-neutral-100 min-h-screen sm:p-5"> 
-    <div className="container mx-auto shadow bg-white py-5 px-10">
+    <div className="containermx-auto shadow bg-white py-5 px-10">
       <Header
         contacts={resume.contact}
         name={resume.fullname}
@@ -25,37 +21,37 @@ const Docs = () => (
       <section className="py-5 border-b border-neutral-300 lg:flex items-center">
         <div className="my-5">
         <img
-            className=" mx-auto lg:w-full xl:w-4/5"
+            className="mx-auto lg:w-full xl:w-4/5"
             src={A}
             alt="profile"
         />
         <img
-            className=" mx-auto lg:w-full xl:w-4/5"
+            className="mx-auto lg:w-full xl:w-4/5"
             src={B}
             alt="profile"
         />
         <img
-            className=" mx-auto lg:w-full xl:w-4/5"
+            className="mx-auto lg:w-full xl:w-4/5"
             src={C}
             alt="profile"
         />
         <img
-            className=" mx-auto lg:w-full xl:w-4/5"
+            className="mx-auto lg:w-full xl:w-4/5"
             src={D}
             alt="profile"
         />
         <img
-            className=" mx-auto lg:w-full xl:w-4/5"
+            className="mx-auto lg:w-full xl:w-4/5"
             src={E}
             alt="profile"
         />
         <img
-            className=" mx-auto lg:w-full xl:w-4/5"
+            className="mx-auto lg:w-full xl:w-4/5"
             src={F}
             alt="profile"
         />
         <img
-            className=" mx-auto lg:w-full xl:w-4/5"
+            className="mx-auto lg:w-full xl:w-4/5"
             src={G}
             alt="profile"
         />
