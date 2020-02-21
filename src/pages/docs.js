@@ -2,13 +2,13 @@ import React from 'react';
 import { Header, Footer } from '../components';
 import resume from '../../data/profile';
 import '../main.css';
-import A from '../assets/IMG_20200220_133350.jpg';
-import B from '../assets/IMG_20200220_133204.jpg';
-import C from '../assets/IMG_20200220_133002.jpg';
-import D from '../assets/IMG_20200219_193900.jpg';
-import E from '../assets/IMG_20200220_133229.jpg';
-import F from '../assets/IMG_20200220_132804.jpg';
-import G from '../assets/IMG_20200219_194250.jpg';
+import imgA from '../assets/IMG_20200220_133350.jpg';
+import imgB from '../assets/IMG_20200220_133204.jpg';
+import imgC from '../assets/IMG_20200220_133002.jpg';
+import imgD from '../assets/IMG_20200219_193900.jpg';
+import imgE from '../assets/IMG_20200220_133229.jpg';
+import imgF from '../assets/IMG_20200220_132804.jpg';
+import imgG from '../assets/IMG_20200219_194250.jpg';
 import hrefstyle from '../assets/style.css';
 
 
@@ -27,37 +27,37 @@ const Docs = () => (
         <div className="my-5">
         <img
             className="docs"
-            src={A}
+            src={imgA}
             alt="profile"
         />
         <img
             className="docs"
-            src={B}
+            src={imgB}
             alt="profile"
         />
         <img
             className="docs"
-            src={C}
+            src={imgC}
             alt="profile"
         />
         <img
             className="docs"
-            src={D}
+            src={imgD}
             alt="profile"
         />
         <img
             className="docs"
-            src={E}
+            src={imgE}
             alt="profile"
         />
         <img
             className="docs"
-            src={F}
+            src={imgF}
             alt="profile"
         />
         <img
             className="docs"
-            src={G}
+            src={imgG}
             alt="profile"
         />
         </div>   
