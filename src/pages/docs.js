@@ -9,10 +9,15 @@ import D from '../assets/IMG_20200219_193900.jpg';
 import E from '../assets/IMG_20200220_133229.jpg';
 import F from '../assets/IMG_20200220_132804.jpg';
 import G from '../assets/IMG_20200219_194250.jpg';
+import hrefstyle from '../assets/style.css';
+
+
+
 
 const Docs = () => (
   <main className="antialiased text-neutral-900 bg-neutral-100 min-h-screen sm:p-5"> 
-    <div className="containermx-auto shadow bg-white py-5 px-10">
+    <link rel="stylesheet" type="text/css" src={hrefstyle} />
+    <div className="container mx-auto shadow bg-white py-5 px-10">
       <Header
         contacts={resume.contact}
         name={resume.fullname}
@@ -21,42 +26,41 @@ const Docs = () => (
       <section className="py-5 border-b border-neutral-300 lg:flex items-center">
         <div className="my-5">
         <img
-            className="mx-auto lg:w-full xl:w-4/5"
+            className="docs"
             src={A}
             alt="profile"
         />
         <img
-            className="mx-auto lg:w-full xl:w-4/5"
+            className="docs"
             src={B}
             alt="profile"
         />
         <img
-            className="mx-auto lg:w-full xl:w-4/5"
+            className="docs"
             src={C}
             alt="profile"
         />
         <img
-            className="mx-auto lg:w-full xl:w-4/5"
+            className="docs"
             src={D}
             alt="profile"
         />
         <img
-            className="mx-auto lg:w-full xl:w-4/5"
+            className="docs"
             src={E}
             alt="profile"
         />
         <img
-            className="mx-auto lg:w-full xl:w-4/5"
+            className="docs"
             src={F}
             alt="profile"
         />
         <img
-            className="mx-auto lg:w-full xl:w-4/5"
+            className="docs"
             src={G}
             alt="profile"
         />
-        </div>
-        
+        </div>   
      </section>
       <Footer social={resume.social} />
     </div>
