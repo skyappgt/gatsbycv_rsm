@@ -2,13 +2,13 @@ import React from 'react';
 import { Header, Footer } from '../components';
 import resume from '../../data/profile';
 import '../main.css';
-import imgA from '../assets/IMG_20200220_133350.jpg';
-import imgB from '../assets/IMG_20200220_133204.jpg';
-import imgC from '../assets/IMG_20200220_133002.jpg';
-import imgD from '../assets/IMG_20200219_193900.jpg';
-import imgE from '../assets/IMG_20200220_133229.jpg';
-import imgF from '../assets/IMG_20200220_132804.jpg';
-import imgG from '../assets/IMG_20200219_194250.jpg';
+import imgA from '../../static/IMG_20200220_133350.jpg';
+import imgB from '../../static/IMG_20200220_133204.jpg';
+import imgC from '../../static/IMG_20200220_133002.jpg';
+import imgD from '../../static/IMG_20200219_193900.jpg';
+import imgE from '../../static/IMG_20200220_133229.jpg';
+import imgF from '../../static/IMG_20200220_132804.jpg';
+import imgG from '../../static/IMG_20200219_194250.jpg';
 import hrefstyle from '../assets/style.css';
 
 
