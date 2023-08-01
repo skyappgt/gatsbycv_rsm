@@ -6,12 +6,12 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Romeo Catalán | Software Eng`,
+    title: `Skyapps Romeo| Software Eng`,
     author: `Romeo Catalán`,
-    description: `With 10+ years of experience in various industries, I help tech
-              startups from idea phase to high volumes. I design and build
-              scalable solutions, implement internal processes that fit your
-              organization, build teams that produce results.`,
+    description: `With 10+ years of experience in web dev, I help companies
+              startups from idea phase to deploy their web presence. I design and build
+              scalable and custom solutions, reading their internal processes and fit best
+              web solution for your organization or e-commerce.`,
     siteUrl: `https://itromeo.ml/`,
     social: {
       twitter: `skyappsgt`,
@@ -22,7 +22,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Romeo Catalán | Software Eng`,
-        short_name: `CV`,
+        short_name: `Sky`,
         start_url: `/`,
         background_color: `#f7f0eb`,
         theme_color: `#38B2AC`,
