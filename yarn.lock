@@ -3141,6 +3141,11 @@ core-js@^2.4.0, core-js@^2.6.11, core-js@^2.6.5:
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-2.6.11.tgz#38831469f9922bded8ee21c9dc46985e0399308c"
   integrity sha512-5wjnpaT/3dV+XB4borEsnAYQchn00XSgTAWKDkEqv+K8KevjbzmofK6hfJ9TZIlpj2N0xQpazy7PiRQiWHqzWg==
 
+core-js@^3.6.4:
+  version "3.32.0"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.32.0.tgz#7643d353d899747ab1f8b03d2803b0312a0fb3b6"
+  integrity sha512-rd4rYZNlF3WuoYuRIDEmbR/ga9CeuWX9U05umAvgrrZoHY4Z++cp/xwPQMvUpBB4Ag6J8KfD80G0zwCyaSxDww==
+
 core-util-is@~1.0.0:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/core-util-is/-/core-util-is-1.0.2.tgz#b5fd54220aa2bc5ab57aab7140c940754503c1a7"
@@ -5005,6 +5010,11 @@ gatsby-page-utils@^0.0.35:
     glob "^7.1.6"
     lodash "^4.17.15"
     micromatch "^3.1.10"
+
+gatsby-plugin-crisp-chat@^3.2.2:
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-crisp-chat/-/gatsby-plugin-crisp-chat-3.2.2.tgz#227b6f1f1311bbb37d392298e0b5a12ba9279a8d"
+  integrity sha512-7bFR/dEBu2u33kw6nGwoZN07Fy/LakB1k6f9SX4y6IZlzmNA4srbMCY/JMRz6yl0qskO7FfFP+xl01MXdEKkZw==
 
 gatsby-plugin-manifest@^2.2.34:
   version "2.2.34"
