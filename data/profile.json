@@ -1,8 +1,8 @@
 {
   "contact": {
-    "phone": "+502 35559602",
+    "phone": "+502 41972417",
     "email": "ocatalana@miumg.edu.gt",
-    "website": "https://romeocarrea.ga",
+    "website": "https://skyapps.netlify.app",
     "location": "Ciudad Guatemala, Guatemala."
   },
   "skills": [
@@ -329,16 +329,16 @@
   ],
   "experience": [
     {
-      "role": "Fullstack Developer - 2019 ( freelance ) ",
-      "company": "Romeo Catalán ",
-      "description": "Desarrollo de soluciones Web, Api’s, Apps (wrapper android y iOS), Data analytics. ",
+      "role": "Fullstack Developer - 2023 ( freelance ) ",
+      "company": "Sky Apps Guatemala",
+      "description": "Ingeniero de Sistemas, Desarrollo de soluciones Web e-commerce, API's, Apps (wrapper android y iOS), Data analytics. ",
       "start": "08/2017",
-      "end": "08/2020"
+      "end": "08/2023"
     },
     {
       "role": "Consultor IT",
       "company": "Sistemas de Ingeniería Informática y Electricidad",
-      "description": "Suministro y configuración Servidor de Back uP, DBA y Active Directory, DNS, DHCP, Back up, Usuarios, Windows server 2008 STD, Firewall, McAfee Total Protection For endpoint Console ( licencias y gestión de consola, sincronización con AD), Seguridad y Perfiles de usuarios, Gestor de correo Outlook, servicios y recursos en red.  \nDiseño y supervisiónde cableado estructurado red, cat 5 a cat 6., switch 10/100/1000  Gigabit y equipo pasivo de red, pruebas y conexión de puntos de red. Gestión y soporte IT, mantenimientos a equipos Activos y pasivos de red, Servidores, soporte de red y administración de directorio activo, Dominio Local, Web hosting, Web mail server, activación y configuración de cuentas de correo, asesoría en automatización de procesos, diseño e implementación de soluciones de software, soluciones de Red, Plataformas cliente-servidor, aplicaciones Web, presentación de servicios y soluciones a clientes tanto en hardware (pc), software networking. ",
+      "description": "Suministro y configuración Servidores de Back uP, DBA y Active Directory, DNS, DHCP, Back up, Usuarios, Windows server 2012 STD, Firewall, McAfee Total Protection For endpoint Console ( licencias y gestión de consola, sincronización con AD), Seguridad y Perfiles de usuarios, Gestor de correo Outlook, servicios y recursos en red.  \nDiseño y supervisiónde cableado estructurado red, cat 5 a cat 6., switch 10/100/1000  Gigabit y equipo pasivo de red, pruebas y conexión de puntos de red. Gestión y soporte IT, mantenimientos a equipos Activos y pasivos de red, Servidores, soporte de red y administración de directorio activo, Dominio Local, Web hosting, Web mail server, activación y configuración de cuentas de correo, asesoría en automatización de procesos, diseño e implementación de soluciones de software, soluciones de Red, Plataformas cliente-servidor, aplicaciones Web, presentación de servicios y soluciones a clientes tanto en hardware (pc), software networking. ",
       "start": "11/2005",
       "end": "01/2017"
     },
@@ -431,7 +431,7 @@
       "link": "https://www.amazon.com/Sky-Apps-Technologies-scanner-Generator/dp/B00XIQFFE4/ref=sr_1_2?qid=1554423841&refinements=p_4:Sky+Apps+&+Technologies&s=mobile-apps&sr=1-2"
     }
   ],
-  "fullname": "Otto Romeo Catalán Arreaga",
+  "fullname": "Sky Apps - Romeo",
   "sidebar": [
     {
       "title": "Idiomas",
