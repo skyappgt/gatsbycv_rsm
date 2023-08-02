@@ -12,7 +12,7 @@ module.exports = {
               startups from idea phase to deploy their web presence. I design and build
               scalable and custom solutions, reading their internal processes and fit best
               web solution for your organization or e-commerce.`,
-    siteUrl: `https://itromeo.ml/`,
+    siteUrl: `https://skyapps.netlify.app/`,
     social: {
       twitter: `skyappsgt`,
     },
@@ -27,7 +27,7 @@ module.exports = {
         background_color: `#f7f0eb`,
         theme_color: `#38B2AC`,
         display: `standalone`,
-        icon: 'src/assets/site-icon.png'
+        icon: 'src/assets/site-icon.jpg'
       },
     },
     'gatsby-plugin-offline',
